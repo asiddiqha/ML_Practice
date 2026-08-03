@@ -1,17 +1,25 @@
-# 🤖 ML Practice
+# 🤖 AI Practice
 
-A collection of my Machine Learning and PySpark practice notebooks covering fundamental concepts, data preprocessing techniques, model building, and algorithm implementation using Python.
+A curated collection of my hands-on practice notebooks and projects covering **Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, PySpark, and Applied AI**.
 
-This repository documents my hands-on learning journey as I build strong foundations in Machine Learning, Data Science, and AI Engineering.
+This repository documents my learning journey through implementing machine learning algorithms, performing exploratory data analysis (EDA), building predictive models, and developing end-to-end AI solutions using Python and modern AI libraries.
 
 ---
 
 ## 📚 Topics Covered
 
+### 📊 Machine Learning
 - Feature Engineering
+- Exploratory Data Analysis (EDA)
 - Linear Regression
 - Logistic Regression
+- Decision Trees
+- Random Forest
+- Gradient Boosting
+- XGBoost
 - K-Means Clustering
+
+### ⚡ Big Data
 - PySpark Fundamentals
 
 ---
@@ -22,7 +30,9 @@ This repository documents my hands-on learning journey as I build strong foundat
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-learn
+- XGBoost
 - PySpark
 - Google Colab
 - Jupyter Notebook
@@ -31,11 +41,15 @@ This repository documents my hands-on learning journey as I build strong foundat
 
 ## 📂 Repository Structure
 
-```
-ML_Practice/
+```text
+AI_Practice/
 │
+├── DecisionTree.ipynb
 ├── FeatureEngineering.ipynb
+├── FoodDemand.ipynb
+├── HousePricePrediction.ipynb
 ├── LinearRegression.ipynb
+├── LoanApprovalPrediction.ipynb
 ├── LogisticRegression.ipynb
 ├── k_means.ipynb
 ├── pyspark.ipynb
@@ -44,31 +58,59 @@ ML_Practice/
 
 ---
 
-## 🎯 Objectives
+## 🎯 Learning Objectives
 
 - Strengthen Machine Learning fundamentals
-- Practice data preprocessing and feature engineering
-- Understand supervised and unsupervised learning algorithms
+- Perform Exploratory Data Analysis (EDA)
+- Build regression, classification, clustering, and ensemble models
+- Practice feature engineering and data preprocessing techniques
+- Understand model evaluation and performance metrics
 - Explore distributed data processing using PySpark
-- Build a solid foundation for AI Engineering projects
+- Develop practical AI solutions through hands-on projects
+- Build a strong foundation for AI Engineering roles
 
 ---
 
-## 🚀 Future Additions
+## 🚀 Upcoming Topics
 
-- Decision Trees
-- Random Forest
+### 🤖 Machine Learning
 - Support Vector Machine (SVM)
 - Naïve Bayes
-- Gradient Boosting
-- XGBoost
 - Principal Component Analysis (PCA)
-- Recommendation Systems
-- Natural Language Processing (NLP)
-- Deep Learning
-- Computer Vision
-- Generative AI
+- Ensemble Learning
+- Model Selection & Hyperparameter Tuning
+
+### 🧠 Deep Learning
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- LSTM
+- Transfer Learning
+
+### 💬 Natural Language Processing
+- Text Preprocessing
+- Sentiment Analysis
+- Text Classification
+- Transformers
+- Large Language Models (LLMs)
+
+### 👁️ Computer Vision
+- Image Classification
+- Object Detection
+- Image Segmentation
+- Face Detection
+
+### ⚙️ MLOps & Deployment
+- Flask APIs
+- Model Deployment
+- Docker
+- ML Pipelines
+
+### 🚀 Applied AI
 - End-to-End Machine Learning Projects
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
 
 ---
 
@@ -76,5 +118,9 @@ ML_Practice/
 
 **Ayesha Siddiqha**
 
-- LinkedIn: https://www.linkedin.com/in/ayesha-siddiqha-/
-- GitHub: https://github.com/asiddiqha
+- 🔗 LinkedIn: https://www.linkedin.com/in/ayesha-siddiqha-/
+- 💻 GitHub: https://github.com/asiddiqha
+
+---
+
+⭐ If you find this repository useful, feel free to explore the notebooks and follow my AI learning journey.
